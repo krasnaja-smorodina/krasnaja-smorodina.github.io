@@ -1,1 +1,1 @@
-##### https://krasnaja-smorodina.github.io/
+##### https://smoOroOdina.github.io/
