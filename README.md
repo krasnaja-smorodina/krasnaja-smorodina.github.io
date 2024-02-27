@@ -1,1 +1,1 @@
-##### https://smoOroOdina.github.io/
+##### https://smooroodina.github.io/
