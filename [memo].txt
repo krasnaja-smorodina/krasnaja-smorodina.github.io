@@ -1,0 +1,13 @@
+Github Repogitory:
+    https://github.com/smooroodina/smooroodina.github.io
+
+
+파이썬 가상환경 실행, 종료:
+[WSL] $ pyenv activate django-pyenv
+[WSL] $ pyenv deactivate
+
+로컬에서 실행: 
+[CMD] > bundle exec jekyll serve
+-> http://127.0.0.1:4000/
+
+ 
