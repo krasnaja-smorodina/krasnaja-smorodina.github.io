@@ -53,3 +53,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  scope:
+    path: ""
+    type:
+  values:
+    layout:
+    permalink: /:title
+collections:
+  posts:
+    permalink: /:categories/:title
