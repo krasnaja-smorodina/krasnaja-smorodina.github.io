@@ -46,12 +46,13 @@ touch ${FILENAME}
 # Add YAML front matter and excerpt space
 tee -a $FILENAME >/dev/null <<END
 ---
+layout: post
 title: ${TITLE}
-tags: []
+subtitle: 
+comments: true
 category:
-aside:
-  toc: true
-show_category: true
+tags: []
+
 ---
 
 
