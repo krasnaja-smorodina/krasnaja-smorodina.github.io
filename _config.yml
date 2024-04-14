@@ -62,4 +62,4 @@ defaults:
     permalink: /:title
 collections:
   posts:
-    permalink: /:categories/:title
+    permalink: /post/:categories/:title
