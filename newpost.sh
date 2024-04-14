@@ -51,9 +51,7 @@ title: ${TITLE}
 subtitle: 
 comments: true
 category:
-tags: [
-  
-]
+tags: []
 
 ---
 
