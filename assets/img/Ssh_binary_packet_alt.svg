@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="3300"
+   height="2550"
+   id="svg14434"
+   sodipodi:version="0.32"
+   inkscape:version="0.45pre1"
+   sodipodi:docname="Ssh binary packet.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Documents and Settings\Ed\My Documents\Wikipedia"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata2254">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="995"
+     inkscape:window-width="1400"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.31333333"
+     inkscape:cx="1650"
+     inkscape:cy="1275"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg14434" />
+  <defs
+     id="defs14436">
+    <linearGradient
+       id="linearGradient14683">
+      <stop
+         style="stop-color:#6ee963;stop-opacity:0.09019608"
+         offset="0"
+         id="stop14685" />
+      <stop
+         style="stop-color:#5f8d41;stop-opacity:1;"
+         offset="1"
+         id="stop14687" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14586">
+      <stop
+         style="stop-color:#d36060;stop-opacity:1"
+         offset="0"
+         id="stop14588" />
+      <stop
+         style="stop-color:#d36060;stop-opacity:0"
+         offset="1"
+         id="stop14590" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14462">
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:1"
+         offset="0"
+         id="stop14464" />
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:0"
+         offset="1"
+         id="stop14466" />
+    </linearGradient>
+    <linearGradient
+       x1="225.21429"
+       y1="2079.0713"
+       x2="225.21429"
+       y2="1823.7856"
+       id="linearGradient14468"
+       xlink:href="#linearGradient14462"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="225.21429"
+       y1="2079.0713"
+       x2="225.21429"
+       y2="1823.7856"
+       id="linearGradient14474"
+       xlink:href="#linearGradient14462"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-1275,1534.994)" />
+    <linearGradient
+       x1="218.57405"
+       y1="44.030628"
+       x2="-255.17542"
+       y2="44.030628"
+       id="linearGradient14592"
+       xlink:href="#linearGradient14586"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="991.1427"
+       y1="331.47736"
+       x2="1530.9915"
+       y2="331.47736"
+       id="linearGradient14689"
+       xlink:href="#linearGradient14683"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14683"
+       id="linearGradient2273"
+       gradientUnits="userSpaceOnUse"
+       x1="1530.9915"
+       y1="-130.9398"
+       x2="975.6723"
+       y2="-130.9398"
+       gradientTransform="translate(1275,742.63782)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14586"
+       id="linearGradient2297"
+       gradientUnits="userSpaceOnUse"
+       x1="218.57405"
+       y1="44.030628"
+       x2="-255.17542"
+       y2="44.030628"
+       gradientTransform="translate(1275,742.63782)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14462"
+       id="linearGradient2330"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,2277.6318)"
+       x1="225.21429"
+       y1="2079.0713"
+       x2="225.21429"
+       y2="1823.7856" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14462"
+       id="linearGradient2334"
+       gradientUnits="userSpaceOnUse"
+       x1="225.21429"
+       y1="2079.0713"
+       x2="225.21429"
+       y2="1823.7856" />
+  </defs>
+  <path
+     id="path14488"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:0.09868421;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 284.6499,713.03951 L 284.6499,1431.1909 L 284.6499,1439.6442 C 284.6501,1462.2776 287.9905,1477.4345 294.6712,1485.1152 C 301.3523,1492.796 314.7368,1496.6364 334.8247,1496.6363 L 1177.2617,1496.6363 C 1190.8054,1496.6364 1200.1905,1499.0679 1205.4169,1503.9308 C 1210.6435,1508.7938 1213.2568,1517.7244 1213.2567,1530.7225 L 1213.2567,1539.0395 L 1232.754,1539.0395 L 1232.754,1530.7225 C 1232.7541,1517.8152 1235.3901,1508.9074 1240.662,1503.9989 C 1245.9341,1499.0906 1255.4327,1496.6364 1269.158,1496.6363 L 2105.173,1496.6363 C 2125.2611,1496.6364 2138.6683,1492.796 2145.3947,1485.1152 C 2152.121,1477.4345 2155.4841,1462.2776 2155.4842,1439.6442 L 2155.4842,1431.1909 L 2155.4842,713.03951 L 2155.4842,704.58621 C 2155.4841,681.95281 2152.121,666.79591 2145.3947,659.11521 C 2138.6683,651.43441 2125.2611,647.59401 2105.173,647.59411 L 1269.158,647.59411 C 1255.4327,647.59401 1245.9341,645.13981 1240.662,640.23151 C 1235.3901,635.32301 1232.7541,626.41521 1232.754,613.50791 L 1232.754,605.19091 L 1213.2567,605.19091 L 1213.2567,613.50791 C 1213.2568,626.50601 1210.6435,635.43661 1205.4169,640.29961 C 1200.1905,645.16251 1190.8054,647.59401 1177.2617,647.59411 L 334.8247,647.59411 C 314.7368,647.59401 301.3523,651.43441 294.6712,659.11521 C 287.9905,666.79591 284.6501,681.95281 284.6499,704.58621 L 284.6499,713.03951 z " />
+  <rect
+     id="rect14529"
+     style="fill:#decd87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="1060.8713"
+     x="1106.9043"
+     height="111.55651"
+     width="269.5076" />
+  <rect
+     id="rect14519"
+     style="fill:#decd87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="831.08868"
+     x="1106.9043"
+     height="156.00008"
+     width="269.5076" />
+  <rect
+     id="rect14509"
+     style="fill:#de8787;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="831.08868"
+     x="751.35577"
+     height="156.00008"
+     width="269.5076" />
+  <path
+     id="path14460"
+     style="fill:url(#linearGradient2334);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 225.71429,1824.2857 L 500,2078.5714 L 500,1950 L 3111.4286,1950 L 3111.4286,1824.2857 L 225.71429,1824.2857 z " />
+  <path
+     id="text14452"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 3159.8505,1762.8902 L 3179.4842,1762.8902 L 3179.4842,1771.3435 C 3179.4841,1793.9769 3176.121,1809.1338 3169.3947,1816.8145 C 3162.6683,1824.4953 3149.2611,1828.3357 3129.173,1828.3356 L 1685.158,1828.3356 C 1671.4327,1828.3357 1661.9341,1830.7899 1656.662,1835.6982 C 1651.3901,1840.6067 1648.7541,1849.5145 1648.754,1862.4218 L 1648.754,1870.7388 L 1629.2567,1870.7388 L 1629.2567,1862.4218 C 1629.2568,1849.4237 1626.6435,1840.4931 1621.4169,1835.6301 C 1616.1905,1830.7672 1606.8054,1828.3357 1593.2617,1828.3356 L 154.8247,1828.3356 C 134.7368,1828.3357 121.3523,1824.4953 114.6712,1816.8145 C 107.9905,1809.1338 104.6501,1793.9769 104.6499,1771.3435 L 104.6499,1762.8902 L 124.1471,1762.8902 L 124.1471,1772.1616 C 124.1473,1784.9781 126.1471,1793.3406 130.1463,1797.249 C 134.1459,1801.1577 142.5539,1803.112 155.3701,1803.1119 L 1594.8979,1803.1119 C 1609.1687,1803.112 1619.5309,1805.1798 1625.9844,1809.3155 C 1632.4382,1813.4514 1636.8012,1820.5186 1639.0735,1830.5171 C 1641.5278,1820.4277 1645.9817,1813.3378 1652.4353,1809.2474 C 1658.889,1805.1571 1669.2058,1803.112 1683.3856,1803.1119 L 3128.6276,1803.1119 C 3141.444,1803.112 3149.8519,1801.1577 3153.8514,1797.249 C 3157.8508,1793.3406 3159.8505,1784.9781 3159.8505,1772.1616 L 3159.8505,1762.8902 z " />
+  <path
+     id="path14470"
+     style="fill:url(#linearGradient2330);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 225.7143,453.34614 L 500,199.06044 L 500,327.63184 L 3111.4286,327.63184 L 3111.4286,453.34614 L 225.7143,453.34614 z " />
+  <path
+     id="path14472"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 3159.8505,553.03951 L 3179.4842,553.03951 L 3179.4842,544.58621 C 3179.4841,521.95281 3176.121,506.79591 3169.3947,499.11521 C 3162.6683,491.43441 3149.2611,487.59401 3129.173,487.59411 L 1685.158,487.59411 C 1671.4327,487.59401 1661.9341,485.13981 1656.662,480.23151 C 1651.3901,475.32301 1648.7541,466.41521 1648.754,453.50791 L 1648.754,445.19091 L 1629.2567,445.19091 L 1629.2567,453.50791 C 1629.2568,466.50601 1626.6435,475.43661 1621.4169,480.29961 C 1616.1905,485.16251 1606.8054,487.59401 1593.2617,487.59411 L 154.8247,487.59411 C 134.7368,487.59401 121.3523,491.43441 114.6712,499.11521 C 107.9905,506.79591 104.6501,521.95281 104.6499,544.58621 L 104.6499,553.03951 L 124.1471,553.03951 L 124.1471,543.76811 C 124.1473,530.95161 126.1471,522.58911 130.1463,518.68071 C 134.1459,514.77201 142.5539,512.81771 155.3701,512.81781 L 1594.8979,512.81781 C 1609.1687,512.81771 1619.5309,510.74991 1625.9844,506.61421 C 1632.4382,502.47831 1636.8012,495.41111 1639.0735,485.41261 C 1641.5278,495.50201 1645.9817,502.59191 1652.4353,506.68231 C 1658.889,510.77261 1669.2058,512.81771 1683.3856,512.81781 L 3128.6276,512.81781 C 3141.444,512.81771 3149.8519,514.77201 3153.8514,518.68071 C 3157.8508,522.58911 3159.8505,530.95161 3159.8505,543.76811 L 3159.8505,553.03951 z " />
+  <text
+     xml:space="preserve"
+     id="text14476"
+     style="font-size:65.10769653px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="410.36646"
+     x="1544.8209"><tspan
+       id="tspan14478"
+       y="410.36646"
+       x="1544.8209">ssh2 binary packet</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14480"
+     style="font-size:17.08606911px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="412.2735"
+     x="1947.4874"><tspan
+       id="tspan14482"
+       y="412.2735"
+       x="1947.4874">35000 bytes or less</tspan></text>
+  <path
+     id="path14484"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 2135.8505,713.03951 L 2155.4842,713.03951 L 2155.4842,704.58621 C 2155.4841,681.95281 2152.121,666.79591 2145.3947,659.11521 C 2138.6683,651.43441 2125.2611,647.59401 2105.173,647.59411 L 1269.158,647.59411 C 1255.4327,647.59401 1245.9341,645.13981 1240.662,640.23151 C 1235.3901,635.32301 1232.7541,626.41521 1232.754,613.50791 L 1232.754,605.19091 L 1213.2567,605.19091 L 1213.2567,613.50791 C 1213.2568,626.50601 1210.6435,635.43661 1205.4169,640.29961 C 1200.1905,645.16251 1190.8054,647.59401 1177.2617,647.59411 L 334.8247,647.59411 C 314.7368,647.59401 301.3523,651.43441 294.6712,659.11521 C 287.9905,666.79591 284.6501,681.95281 284.6499,704.58621 L 284.6499,713.03951 L 304.1471,713.03951 L 304.1471,703.76811 C 304.1473,690.95161 306.1471,682.58911 310.1463,678.68071 C 314.1459,674.77201 322.5539,672.81771 335.3701,672.81781 L 1178.8979,672.81781 C 1193.1687,672.81771 1203.5309,670.74991 1209.9844,666.61421 C 1216.4382,662.47831 1220.8012,655.41111 1223.0735,645.41261 C 1225.5278,655.50201 1229.9817,662.59191 1236.4353,666.68231 C 1242.889,670.77261 1253.2058,672.81771 1267.3856,672.81781 L 2104.6276,672.81781 C 2117.444,672.81771 2125.8519,674.77201 2129.8514,678.68071 C 2133.8508,682.58911 2135.8505,690.95161 2135.8505,703.76811 L 2135.8505,713.03951 z " />
+  <path
+     id="path14486"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 2135.8505,1431.1909 L 2155.4842,1431.1909 L 2155.4842,1439.6442 C 2155.4841,1462.2776 2152.121,1477.4345 2145.3947,1485.1152 C 2138.6683,1492.796 2125.2611,1496.6364 2105.173,1496.6363 L 1269.158,1496.6363 C 1255.4327,1496.6364 1245.9341,1499.0906 1240.662,1503.9989 C 1235.3901,1508.9074 1232.7541,1517.8152 1232.754,1530.7225 L 1232.754,1539.0395 L 1213.2567,1539.0395 L 1213.2567,1530.7225 C 1213.2568,1517.7244 1210.6435,1508.7938 1205.4169,1503.9308 C 1200.1905,1499.0679 1190.8054,1496.6364 1177.2617,1496.6363 L 334.8247,1496.6363 C 314.7368,1496.6364 301.3523,1492.796 294.6712,1485.1152 C 287.9905,1477.4345 284.6501,1462.2776 284.6499,1439.6442 L 284.6499,1431.1909 L 304.1471,1431.1909 L 304.1471,1440.4623 C 304.1473,1453.2788 306.1471,1461.6413 310.1463,1465.5497 C 314.1459,1469.4584 322.5539,1471.4127 335.3701,1471.4126 L 1178.8979,1471.4126 C 1193.1687,1471.4127 1203.5309,1473.4805 1209.9844,1477.6162 C 1216.4382,1481.7521 1220.8012,1488.8193 1223.0735,1498.8178 C 1225.5278,1488.7284 1229.9817,1481.6385 1236.4353,1477.5481 C 1242.889,1473.4578 1253.2058,1471.4127 1267.3856,1471.4126 L 2104.6276,1471.4126 C 2117.444,1471.4127 2125.8519,1469.4584 2129.8514,1465.5497 C 2133.8508,1461.6413 2135.8505,1453.2788 2135.8505,1440.4623 L 2135.8505,1431.1909 z " />
+  <path
+     id="path14495"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 1399.8505,817.03951 L 1419.4842,817.03951 L 1419.4842,808.58621 C 1419.4841,785.95281 1416.121,770.79591 1409.3947,763.11521 C 1402.6683,755.43441 1389.2611,751.59401 1369.173,751.59411 L 1287.158,751.59411 C 1273.4327,751.59401 1263.9341,749.13981 1258.662,744.23151 C 1253.3901,739.32301 1250.7541,730.41521 1250.754,717.50791 L 1250.754,709.19091 L 1231.2567,709.19091 L 1231.2567,717.50791 C 1231.2568,730.50601 1228.6435,739.43661 1223.4169,744.29961 C 1218.1905,749.16251 1208.8054,751.59401 1195.2617,751.59411 L 1114.8247,751.59411 C 1094.7368,751.59401 1081.3523,755.43441 1074.6712,763.11521 C 1067.9905,770.79591 1064.6501,785.95281 1064.6499,808.58621 L 1064.6499,817.03951 L 1084.1471,817.03951 L 1084.1471,807.76811 C 1084.1473,794.95161 1086.1471,786.58911 1090.1463,782.68071 C 1094.1459,778.77201 1102.5539,776.81771 1115.3701,776.81781 L 1196.8979,776.81781 C 1211.1687,776.81771 1221.5309,774.74991 1227.9844,770.61421 C 1234.4382,766.47831 1238.8012,759.41111 1241.0735,749.41261 C 1243.5278,759.50201 1247.9817,766.59191 1254.4353,770.68231 C 1260.889,774.77261 1271.2058,776.81771 1285.3856,776.81781 L 1368.6276,776.81781 C 1381.444,776.81771 1389.8519,778.77201 1393.8514,782.68071 C 1397.8508,786.58911 1399.8505,794.95161 1399.8505,807.76811 L 1399.8505,817.03951 z " />
+  <path
+     id="path14497"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 1399.8505,1205.1909 L 1419.4842,1205.1909 L 1419.4842,1213.6442 C 1419.4841,1236.2776 1416.121,1251.4345 1409.3947,1259.1152 C 1402.6683,1266.796 1389.2611,1270.6364 1369.173,1270.6363 L 1287.158,1270.6363 C 1273.4327,1270.6364 1263.9341,1273.0906 1258.662,1277.9989 C 1253.3901,1282.9074 1250.7541,1291.8152 1250.754,1304.7225 L 1250.754,1313.0395 L 1231.2567,1313.0395 L 1231.2567,1304.7225 C 1231.2568,1291.7244 1228.6435,1282.7938 1223.4169,1277.9308 C 1218.1905,1273.0679 1208.8054,1270.6364 1195.2617,1270.6363 L 1114.8247,1270.6363 C 1094.7368,1270.6364 1081.3523,1266.796 1074.6712,1259.1152 C 1067.9905,1251.4345 1064.6501,1236.2776 1064.6499,1213.6442 L 1064.6499,1205.1909 L 1084.1471,1205.1909 L 1084.1471,1214.4623 C 1084.1473,1227.2788 1086.1471,1235.6413 1090.1463,1239.5497 C 1094.1459,1243.4584 1102.5539,1245.4127 1115.3701,1245.4126 L 1196.8979,1245.4126 C 1211.1687,1245.4127 1221.5309,1247.4805 1227.9844,1251.6162 C 1234.4382,1255.7521 1238.8012,1262.8193 1241.0735,1272.8178 C 1243.5278,1262.7284 1247.9817,1255.6385 1254.4353,1251.5481 C 1260.889,1247.4578 1271.2058,1245.4127 1285.3856,1245.4126 L 1368.6276,1245.4126 C 1381.444,1245.4127 1389.8519,1243.4584 1393.8514,1239.5497 C 1397.8508,1235.6413 1399.8505,1227.2788 1399.8505,1214.4623 L 1399.8505,1205.1909 z " />
+  <rect
+     id="rect14507"
+     style="fill:#8787de;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="831.08868"
+     x="350.41809"
+     height="156.00008"
+     width="269.5076" />
+  <text
+     xml:space="preserve"
+     id="text14499"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="875.69458"
+     x="485.11292"><tspan
+       id="tspan14501"
+       y="875.69458"
+       x="485.11292">packet_length</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14503"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="971.44836"
+     x="358.95184"><tspan
+       id="tspan14505"
+       y="971.44836"
+       x="358.95184">uint32</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14511"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="875.69458"
+     x="886.05066"><tspan
+       id="tspan14513"
+       y="875.69458"
+       x="886.05066">padding_length</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14515"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="971.44836"
+     x="759.88953"><tspan
+       id="tspan14517"
+       y="971.44836"
+       x="759.88953">byte</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14521"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="875.69458"
+     x="1241.5991"><tspan
+       id="tspan14523"
+       y="875.69458"
+       x="1241.5991">payload</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14525"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="971.44836"
+     x="1115.438"><tspan
+       id="tspan14527"
+       y="971.44836"
+       x="1115.438">byte</tspan></text>
+  <g
+     id="g14543"
+     transform="translate(1275,745.48891)">
+    <text
+       xml:space="preserve"
+       id="text14531"
+       style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="351.49216"
+       x="-33.336025"><tspan
+         id="tspan14533"
+         y="351.49216"
+         x="-33.336021">(packet_length)</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text14535"
+       style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="380.33319"
+       x="-32.888016"><tspan
+         id="tspan14537"
+         y="380.33319"
+         x="-32.888016">- (padding_length)</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text14539"
+       style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="409.17426"
+       x="-32.811375"><tspan
+         id="tspan14541"
+         y="409.17426"
+         x="-32.811375">- 1</tspan></text>
+  </g>
+  <path
+     id="path14582"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#5f5f93;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 735.24597,1177.6599 L 735.24597,1197.2936 L 726.79267,1197.2936 C 704.15927,1197.2935 689.00237,1193.9304 681.32167,1187.2041 C 673.64087,1180.4777 669.80047,1167.0705 669.80057,1146.9824 L 669.80057,952.44012 C 669.80047,938.71478 667.34627,929.21618 662.43797,923.94408 C 657.52947,918.67218 648.62167,916.03618 635.71437,916.03608 L 627.39737,916.03608 L 627.39737,896.53878 L 635.71437,896.53878 C 648.71247,896.53888 657.64307,893.92558 662.50607,888.69898 C 667.36897,883.47258 669.80047,874.08748 669.80057,860.54378 L 669.80057,836.84325 C 669.80047,816.75535 673.64087,803.37085 681.32167,796.68975 C 689.00237,790.00905 704.15927,786.66865 726.79267,786.66845 L 735.24597,786.66845 L 735.24597,806.16565 L 725.97457,806.16565 C 713.15807,806.16585 704.79557,808.16565 700.88717,812.16485 C 696.97847,816.16445 695.02417,824.57245 695.02427,837.38865 L 695.02427,862.17998 C 695.02417,876.45078 692.95637,886.81298 688.82067,893.26648 C 684.68477,899.72028 677.61757,904.08328 667.61907,906.35558 C 677.70847,908.80988 684.79837,913.26378 688.88877,919.71738 C 692.97907,926.17108 695.02417,936.48788 695.02427,950.66764 L 695.02427,1146.437 C 695.02417,1159.2534 696.97847,1167.6613 700.88717,1171.6608 C 704.79557,1175.6602 713.15807,1177.6599 725.97457,1177.6599 L 735.24597,1177.6599 z " />
+  <path
+     id="path14584"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient2297);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 1590.0754,1188.0616 L 1590.0754,1207.6953 L 1581.6221,1207.6953 C 1558.9887,1207.6952 1543.8318,1204.3321 1536.1511,1197.6058 C 1528.4703,1190.8794 1524.6299,1177.4722 1524.63,1157.3841 L 1524.63,949.6033 C 1524.6299,935.87796 1522.1757,926.37936 1517.2674,921.10726 C 1512.3589,915.83536 1503.4511,913.19936 1490.5438,913.19926 L 1019.8246,913.19926 L 1019.8246,893.70196 L 1490.5438,893.70196 C 1503.5419,893.70206 1512.4725,891.08876 1517.3355,885.86216 C 1522.1984,880.63576 1524.6299,871.25066 1524.63,857.70696 L 1524.63,836.84325 C 1524.6299,816.75535 1528.4703,803.37085 1536.1511,796.68975 C 1543.8318,790.00905 1558.9887,786.66865 1581.6221,786.66845 L 1590.0754,786.66845 L 1590.0754,806.16565 L 1580.804,806.16565 C 1567.9875,806.16585 1559.625,808.16565 1555.7166,812.16485 C 1551.8079,816.16445 1549.8536,824.57245 1549.8537,837.38865 L 1549.8537,859.34316 C 1549.8536,873.61396 1547.7858,883.97616 1543.6501,890.42966 C 1539.5142,896.88346 1532.447,901.24646 1522.4485,903.51876 C 1532.5379,905.97306 1539.6278,910.42696 1543.7182,916.88056 C 1547.8085,923.33426 1549.8536,933.65106 1549.8537,947.83082 L 1549.8537,1156.8387 C 1549.8536,1169.6551 1551.8079,1178.063 1555.7166,1182.0625 C 1559.625,1186.0619 1567.9875,1188.0616 1580.804,1188.0616 L 1590.0754,1188.0616 z " />
+  <path
+     id="path14637"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#d36060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 1864.2523,1188.0616 L 1864.2523,1207.6953 L 1872.7056,1207.6953 C 1895.339,1207.6952 1910.4959,1204.3321 1918.1766,1197.6058 C 1925.8574,1190.8794 1929.6978,1177.4722 1929.6977,1157.3841 L 1929.6977,949.6033 C 1929.6978,935.87796 1932.152,926.37936 1937.0603,921.10726 C 1941.9688,915.83536 1950.8766,913.19936 1963.7839,913.19926 L 1972.1009,913.19926 L 1972.1009,893.70196 L 1963.7839,893.70196 C 1950.7858,893.70206 1941.8552,891.08876 1936.9922,885.86216 C 1932.1293,880.63576 1929.6978,871.25066 1929.6977,857.70696 L 1929.6977,836.84325 C 1929.6978,816.75535 1925.8574,803.37085 1918.1766,796.68975 C 1910.4959,790.00905 1895.339,786.66865 1872.7056,786.66845 L 1864.2523,786.66845 L 1864.2523,806.16565 L 1873.5237,806.16565 C 1886.3402,806.16585 1894.7027,808.16565 1898.6111,812.16485 C 1902.5198,816.16445 1904.4741,824.57245 1904.474,837.38865 L 1904.474,859.34316 C 1904.4741,873.61396 1906.5419,883.97616 1910.6776,890.42966 C 1914.8135,896.88346 1921.8807,901.24646 1931.8792,903.51876 C 1921.7898,905.97306 1914.6999,910.42696 1910.6095,916.88056 C 1906.5192,923.33426 1904.4741,933.65106 1904.474,947.83082 L 1904.474,1156.8387 C 1904.4741,1169.6551 1902.5198,1178.063 1898.6111,1182.0625 C 1894.7027,1186.0619 1886.3402,1188.0616 1873.5237,1188.0616 L 1864.2523,1188.0616 z " />
+  <path
+     id="path14641"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#5f5f93;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 2000.4198,1177.6599 L 2000.4198,1197.2936 L 2008.8731,1197.2936 C 2031.5065,1197.2935 2046.6634,1193.9304 2054.3441,1187.2041 C 2062.0249,1180.4777 2065.8653,1167.0705 2065.8652,1146.9824 L 2065.8652,952.44012 C 2065.8653,938.71478 2068.3195,929.21618 2073.2278,923.94408 C 2078.1363,918.67218 2087.0441,916.03618 2099.9514,916.03608 L 2108.2684,916.03608 L 2108.2684,896.53878 L 2099.9514,896.53878 C 2086.9533,896.53888 2078.0227,893.92558 2073.1597,888.69898 C 2068.2968,883.47258 2065.8653,874.08748 2065.8652,860.54378 L 2065.8652,836.84325 C 2065.8653,816.75535 2062.0249,803.37085 2054.3441,796.68975 C 2046.6634,790.00905 2031.5065,786.66865 2008.8731,786.66845 L 2000.4198,786.66845 L 2000.4198,806.16565 L 2009.6912,806.16565 C 2022.5077,806.16585 2030.8702,808.16565 2034.7786,812.16485 C 2038.6873,816.16445 2040.6416,824.57245 2040.6415,837.38865 L 2040.6415,862.17998 C 2040.6416,876.45078 2042.7094,886.81298 2046.8451,893.26648 C 2050.981,899.72028 2058.0482,904.08328 2068.0467,906.35558 C 2057.9573,908.80988 2050.8674,913.26378 2046.777,919.71738 C 2042.6867,926.17108 2040.6416,936.48788 2040.6415,950.66764 L 2040.6415,1146.437 C 2040.6416,1159.2534 2038.6873,1167.6613 2034.7786,1171.6608 C 2030.8702,1175.6602 2022.5077,1177.6599 2009.6912,1177.6599 L 2000.4198,1177.6599 z " />
+  <text
+     xml:space="preserve"
+     id="text14643"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1355.5807"
+     x="1242.1174"><tspan
+       id="tspan14645"
+       y="1355.5807"
+       x="1242.1174">initially non-compressed,</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14647"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1387.7313"
+     x="1242.4202"><tspan
+       id="tspan14649"
+       y="1387.7313"
+       x="1242.4202">then optionally compressed according to</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14651"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1419.8821"
+     x="1241.5815"><tspan
+       id="tspan14653"
+       y="1419.8821"
+       x="1241.5815">negotiated compression scheme</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14655"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#e5894b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1452.0327"
+     x="1242.0734"><tspan
+       id="tspan14657"
+       y="1452.0327"
+       x="1242.0734">(generally zlib)</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14659"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1586.309"
+     x="1220.874"><tspan
+       id="tspan14661"
+       y="1586.309"
+       x="1220.874">datastream:</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14663"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1616.332"
+     x="1220.1174"><tspan
+       id="tspan14665"
+       y="1616.332"
+       x="1220.1174">initially non-encrypted,</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14667"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1646.3551"
+     x="1220.4202"><tspan
+       id="tspan14669"
+       y="1646.3551"
+       x="1220.42">then obligatorily encrypted according to</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14671"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1676.3781"
+     x="1219.2789"><tspan
+       id="tspan14673"
+       y="1676.3781"
+       x="1219.2789">negotiated algorithm and key</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14675"
+     style="font-size:25.82361031px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#77b8ee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1706.4011"
+     x="1220.0734"><tspan
+       id="tspan14677"
+       y="1706.4011"
+       x="1220.0734">(generally aes128-cbc)</tspan></text>
+  <path
+     id="path14679"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#5f8d41;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 281.99135,631.33176 L 281.99135,611.69802 L 273.538,611.69802 C 250.9046,611.69812 235.7477,615.06122 228.0671,621.78752 C 220.3862,628.51392 216.5458,641.92116 216.5459,662.00926 L 216.5459,860.02423 C 216.5458,873.74957 214.0917,883.24817 209.1833,888.52027 C 204.2748,893.79217 195.3671,896.42817 182.4597,896.42827 L 174.1427,896.42827 L 174.1427,915.92557 L 182.4597,915.92557 C 195.4578,915.92547 204.3884,918.53877 209.2514,923.76537 C 214.1144,928.99177 216.5458,938.37687 216.5459,951.92057 L 216.5459,1486.3575 C 216.5458,1506.4454 220.3862,1519.8299 228.0671,1526.511 C 235.7477,1533.1917 250.9046,1536.5321 273.538,1536.5323 L 281.99135,1536.5323 L 281.99135,1517.0351 L 272.7199,1517.0351 C 259.9034,1517.0349 251.5409,1515.0351 247.6325,1511.0359 C 243.7239,1507.0363 241.7695,1498.6283 241.7696,1485.8121 L 241.7696,950.28437 C 241.7695,936.01357 239.7017,925.65137 235.566,919.19787 C 231.4301,912.74407 224.3629,908.38107 214.3644,906.10877 C 224.4539,903.65447 231.5437,899.20057 235.6342,892.74697 C 239.7244,886.29327 241.7695,875.97647 241.7696,861.79671 L 241.7696,662.55466 C 241.7695,649.73826 243.7239,641.33036 247.6325,637.33086 C 251.5409,633.33146 259.9034,631.33176 272.7199,631.33176 L 281.99135,631.33176 z " />
+  <path
+     id="path14681"
+     style="font-size:279.23391724px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:url(#linearGradient2273);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman"
+     d="M 2164.1427,631.33176 L 2164.1427,611.69802 L 2172.5961,611.69802 C 2195.2294,611.69812 2210.3864,615.06122 2218.067,621.78752 C 2225.7479,628.51392 2229.5882,641.92116 2229.5881,662.00926 L 2229.5881,860.02423 C 2229.5882,873.74957 2232.0424,883.24817 2236.9508,888.52027 C 2241.8593,893.79217 2250.767,896.42817 2263.6743,896.42827 L 2805.9914,896.42827 L 2805.9914,915.92557 L 2263.6743,915.92557 C 2250.6763,915.92547 2241.7457,918.53877 2236.8826,923.76537 C 2232.0197,928.99177 2229.5882,938.37687 2229.5881,951.92057 L 2229.5881,1486.3575 C 2229.5882,1506.4454 2225.7479,1519.8299 2218.067,1526.511 C 2210.3864,1533.1917 2195.2294,1536.5321 2172.5961,1536.5323 L 2164.1427,1536.5323 L 2164.1427,1517.0351 L 2173.4142,1517.0351 C 2186.2306,1517.0349 2194.5932,1515.0351 2198.5016,1511.0359 C 2202.4102,1507.0363 2204.3645,1498.6283 2204.3644,1485.8121 L 2204.3644,950.28437 C 2204.3645,936.01357 2206.4323,925.65137 2210.5681,919.19787 C 2214.704,912.74407 2221.7711,908.38107 2231.7697,906.10877 C 2221.6802,903.65447 2214.5904,899.20057 2210.4999,892.74697 C 2206.4097,886.29327 2204.3645,875.97647 2204.3644,861.79671 L 2204.3644,662.55466 C 2204.3645,649.73826 2202.4102,641.33036 2198.5016,637.33086 C 2194.5932,633.33146 2186.2306,631.33176 2173.4142,631.33176 L 2164.1427,631.33176 z " />
+  <rect
+     id="rect14594"
+     style="fill:#cdde87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="1060.8713"
+     x="1592.001"
+     height="111.55651"
+     width="269.5076" />
+  <rect
+     id="rect14596"
+     style="fill:#cdde87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="831.08868"
+     x="1592.001"
+     height="156.00008"
+     width="269.5076" />
+  <text
+     xml:space="preserve"
+     id="text14598"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="875.69458"
+     x="1726.6959"><tspan
+       id="tspan14600"
+       y="875.69458"
+       x="1726.6959">at least 4 bytes</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14602"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="971.44836"
+     x="1600.5348"><tspan
+       id="tspan14604"
+       y="971.44836"
+       x="1600.5348">byte</tspan></text>
+  <g
+     id="g14606"
+     transform="translate(1760.0968,737.92405)">
+    <text
+       xml:space="preserve"
+       id="text14608"
+       style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="351.49216"
+       x="-33.336025"><tspan
+         id="tspan14610"
+         y="351.49216"
+         x="-33.336021">random_padding</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text14612"
+       style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="380.33319"
+       x="-32.888016"><tspan
+         id="tspan14614"
+         y="380.33319"
+         x="-32.888016">length</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text14620"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="905.00842"
+     x="1726.6959"><tspan
+       id="tspan14622"
+       y="905.00842"
+       x="1726.6959">of random</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text14626"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="934.32227"
+     x="1726.6959"><tspan
+       id="tspan14628"
+       y="934.32227"
+       x="1726.6959">padding</tspan></text>
+  <rect
+     id="rect14691"
+     style="fill:#6ee963;fill-opacity:0.09210528;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="642"
+     x="2812"
+     ry="52"
+     height="858"
+     width="298" />
+  <rect
+     width="269.5076"
+     height="111.55651"
+     x="2822.2058"
+     y="1060.8713"
+     style="fill:#aade87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2341" />
+  <rect
+     width="269.5076"
+     height="156.00008"
+     x="2822.2058"
+     y="831.08868"
+     style="fill:#aade87;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2343" />
+  <text
+     x="2956.9009"
+     y="875.69458"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2345"
+     xml:space="preserve"><tspan
+       x="2956.9009"
+       y="875.69458"
+       id="tspan2347">message</tspan></text>
+  <text
+     x="2830.7397"
+     y="971.44836"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2349"
+     xml:space="preserve"><tspan
+       x="2830.7397"
+       y="971.44836"
+       id="tspan2351">byte</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2355"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1089.4163"
+     x="2956.9656"><tspan
+       id="tspan2357"
+       y="1089.4163"
+       x="2956.9656">mac_length</tspan></text>
+  <text
+     x="2956.9009"
+     y="905.00842"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2363"
+     xml:space="preserve"><tspan
+       x="2956.9009"
+       y="905.00842"
+       id="tspan2365">authentication</tspan></text>
+  <text
+     x="2956.9009"
+     y="934.32227"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2367"
+     xml:space="preserve"><tspan
+       x="2956.9009"
+       y="934.32227"
+       id="tspan2369">code</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2377"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="824.85681"
+     x="2537.5269"><tspan
+       id="tspan2379"
+       y="824.85681"
+       x="2537.5269"
+       style="fill:#769d5c;fill-opacity:1">initially non-operating,</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2381"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="854.17065"
+     x="2537.8098"><tspan
+       id="tspan2383"
+       y="854.17065"
+       x="2537.8098"
+       style="fill:#769d5c;fill-opacity:1">then implemented according to</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2385"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="883.4845"
+     x="2537.6919"><tspan
+       id="tspan2387"
+       y="883.4845"
+       x="2537.6919"
+       style="fill:#769d5c;fill-opacity:1">negotiated algorithm and key.</tspan></text>
+  <text
+     x="2537.5269"
+     y="946.1839"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2389"
+     xml:space="preserve"><tspan
+       style="fill:#769d5c;fill-opacity:1"
+       x="2537.5269"
+       y="946.1839"
+       id="tspan2391">the secure negotiation of 'mac' algorithm</tspan></text>
+  <text
+     x="2537.8098"
+     y="975.49774"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2393"
+     xml:space="preserve"><tspan
+       style="fill:#769d5c;fill-opacity:1"
+       x="2537.8098"
+       y="975.49774"
+       id="tspan2395">(prior to encryption)</tspan></text>
+  <text
+     x="2537.6919"
+     y="1004.8116"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2397"
+     xml:space="preserve"><tspan
+       style="fill:#769d5c;fill-opacity:1"
+       x="2537.6919"
+       y="1004.8116"
+       id="tspan2399">is further elaborated in rfc 4253</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2401"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1065.8021"
+     x="2537.5269"><tspan
+       id="tspan2403"
+       y="1065.8021"
+       x="2537.5269"
+       style="fill:#769d5c;fill-opacity:1">computed using:</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2405"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1096.0249"
+     x="2537.8098"><tspan
+       id="tspan2407"
+       y="1096.0249"
+       x="2537.8098"
+       style="fill:#769d5c;fill-opacity:1">a shared secret,</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2409"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="1126.2477"
+     x="2537.6919"><tspan
+       id="tspan2411"
+       y="1126.2477"
+       x="2537.6919"
+       style="fill:#769d5c;fill-opacity:1">the packet sequence_number,</tspan></text>
+  <text
+     x="2537.6919"
+     y="1156.4705"
+     style="font-size:24.14557648px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#769d5c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2413"
+     xml:space="preserve"><tspan
+       style="fill:#769d5c;fill-opacity:1"
+       x="2537.6919"
+       y="1156.4705"
+       id="tspan2415">and the packet contents</tspan></text>
+  <text
+     x="189.65681"
+     y="2127.3857"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2417"
+     xml:space="preserve"><tspan
+       x="189.65681"
+       y="2127.3857"
+       id="tspan2419"
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1">sequence_number</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2421"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="2187.3708"
+     x="189.65681"><tspan
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1"
+       id="tspan2423"
+       y="2187.3708"
+       x="189.65681">...is an implicit packet sequence number represented as uint32.</tspan></text>
+  <text
+     x="189.65681"
+     y="2187.3708"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2425"
+     xml:space="preserve"><tspan
+       x="189.65681"
+       y="2187.3708"
+       id="tspan2427"
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1">...is an implicit packet sequence number represented as uint32.</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2429"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="2217.7842"
+     x="189.65681"><tspan
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1"
+       id="tspan2431"
+       y="2217.7842"
+       x="189.65681">The packet sequence_number itself is not included in the packet</tspan></text>
+  <text
+     x="189.65681"
+     y="2248.1978"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2433"
+     xml:space="preserve"><tspan
+       x="189.65681"
+       y="2248.1978"
+       id="tspan2435"
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1">sent over the wire. The sequence_number is initialized to zero</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2437"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="2278.6113"
+     x="189.65681"><tspan
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1"
+       id="tspan2439"
+       y="2278.6113"
+       x="189.65681">for the first packet, and is incremented after every packet</tspan></text>
+  <text
+     x="189.65681"
+     y="2309.0247"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2441"
+     xml:space="preserve"><tspan
+       x="189.65681"
+       y="2309.0247"
+       id="tspan2443"
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1">(regargless of whether encryption or MAC is in use). It is never</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2449"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     y="2339.438"
+     x="189.65681"><tspan
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1"
+       id="tspan2451"
+       y="2339.438"
+       x="189.65681">reset (even if keys/algorithms are renegotiated later!). It wraps</tspan></text>
+  <text
+     x="189.65681"
+     y="2369.8516"
+     style="font-size:24.17163467px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     id="text2453"
+     xml:space="preserve"><tspan
+       x="189.65681"
+       y="2369.8516"
+       id="tspan2455"
+       style="text-align:start;text-anchor:start;fill:#999999;fill-opacity:1">around to zero after every 2^32 packets.</tspan></text>
+</svg>
